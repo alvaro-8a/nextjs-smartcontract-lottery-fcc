@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Install YARN packages
    ```sh
-   yarn install
+   yarn
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
